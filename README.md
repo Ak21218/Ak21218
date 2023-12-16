@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/akash-singh-bb46a5253/](https://www.linkedin.com/in/akash-singh-bb46a5253/)
 
- 📄 I regularly write articles on [https://twitter.com/akashsi93641287](https://twitter.com/akashsi93641287)
+- 📄 I regularly write articles on [https://twitter.com/akashsi93641287](https://twitter.com/akashsi93641287)
 
 - 📫 How to reach me **2002akashsingh21@gmail.com**
 
