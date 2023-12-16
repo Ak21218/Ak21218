@@ -1,3 +1,4 @@
+![logo](https://github.com/Ak21218/Ak21218/blob/main/Dark%20and%20Dynamic%20Etched%20Textured%20Background%20Coming%20Soon%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
