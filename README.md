@@ -1,15 +1,13 @@
-<!-- 👋 Intro -->
 <h1 align="center">Hey 👋, I'm Akash Singh</h1>
 
-<h3 align="center">💻 Developer • Builder • Explorer</h3>
+<h3 align="center">💻 Developer • 📊 Data Analyst • 🚀 Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=I+build+cool+projects;Exploring+AI+%26+Data;Learning+DevOps;Always+curious" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=I+build+projects;Data+Analysis+%26+Insights;Exploring+AI+%26+DevOps;Always+learning" />
 </p>
 
 ---
 
-<!-- 🖼️ Banner -->
 <p align="center">
   <img src="https://github.com/Ak21218/Ak21218/blob/main/Dark%20and%20Dynamic%20Etched%20Textured%20Background%20Coming%20Soon%20Banner.png" />
 </p>
@@ -17,28 +15,41 @@
 ---
 
 ## 🧠 About Me
-- 💻 I enjoy building projects that solve real problems  
-- 📊 Worked on data-driven projects like **churn analysis**  
-- 🛠️ Built tools like a **task manager using Python**  
+- 💻 I build projects combining **development + data analysis**  
+- 📊 I analyze data to extract insights and patterns  
+- 🛠️ Created tools like a **Smart Task Manager (Python)**  
+- 📈 Worked on **E-commerce Churn Analysis using ML models**  
 - 🌍 Exploring **AI, backend systems & DevOps**  
-- ⚡ I like experimenting and learning by building  
+- ⚡ I enjoy turning data into meaningful solutions  
 
 ---
 
-## 🚀 What I’ve Built
+## 📊 Data Analysis Work
+- 🔍 Performed **Exploratory Data Analysis (EDA)**  
+- 📈 Built models like **Logistic Regression**  
+- 🧰 Tools: **Pandas, NumPy, Matplotlib, Seaborn**  
+- 📊 Created dashboards for better decision making  
+
+---
+
+## 🚀 Projects
 
 ### 🔹 E-commerce Churn Analysis
-Understanding customer behavior using data & ML  
+- Analyzed customer data to predict churn  
+- Used EDA + ML (Logistic Regression)  
+- Extracted business insights  
+
+### 🔹 Sales Dashboard (Power BI)
+- Built interactive dashboard  
+- Visualized key sales metrics  
 
 ### 🔹 Smart Task Manager
-A simple CLI tool to organize tasks efficiently  
-
-### 🔹 Sales Dashboard
-Turning raw data into meaningful insights  
+- CLI-based productivity tool  
+- Built using Python & JSON  
 
 ---
 
-## 🛠️ Tech I Use
+## 🛠️ Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,linux,nodejs" />
 </p>
@@ -54,18 +65,18 @@ Turning raw data into meaningful insights
 ---
 
 ## 🌱 Currently Exploring
-- 🧠 AI / Machine Learning  
-- ⚙️ DevOps tools & workflows  
-- 📚 Writing better code & systems  
+- 🤖 Machine Learning & AI  
+- ⚙️ DevOps workflows  
+- 📊 Advanced Data Analytics  
 
 ---
 
-## 🌐 Find Me Around The Web
+## 🌐 Connect
 <p align="center">
 <a href="https://linkedin.com/in/akash-singh-bb46a5253">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://x.com/AkashSingh45910">
+<a href="https://twitter.com/akashsi93641287">
 <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
 </a>
 </p>
@@ -73,5 +84,5 @@ Turning raw data into meaningful insights
 ---
 
 <p align="center">
-  ⚡ Building. Learning. Repeating.
+  ⚡ Turning data into insights & ideas into projects
 </p>
