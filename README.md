@@ -36,13 +36,6 @@
 
 ---
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ak21218&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ak21218&show_icons=true&locale=en&theme=tokyonight" />
-</p>
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ak21218&theme=tokyonight" />
