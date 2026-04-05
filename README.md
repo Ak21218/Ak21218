@@ -65,7 +65,7 @@ Turning raw data into meaningful insights
 <a href="https://linkedin.com/in/akash-singh-bb46a5253">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://twitter.com/akashsi93641287">
+<a href="https://x.com/AkashSingh45910">
 <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
 </a>
 </p>
