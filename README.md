@@ -21,9 +21,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akashsi93641287"><img src="https://x.com/home" width="30"/></a>
-<a href="https://linkedin.com/in/akash-singh-bb46a5253"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>
-<a href="https://instagram.com/"><img src="https://www.instagram.com/akashere.1_?igsh=MTl6bnUyNnA0Z2lsaw==" width="30"/></a>
+<a href="https://twitter.com/akashsi93641287" target="blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="30" />
+</a>
+<a href="https://linkedin.com/in/akash-singh-bb46a5253" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
+</a>
+<a href="https://www.instagram.com/akashere.1_/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="30" />
+</a>
+</p>
 </p>
 
 ---
