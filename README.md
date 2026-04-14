@@ -1,4 +1,11 @@
-![logo](https://github.com/Ak21218/Ak21218/blob/main/Dark%20and%20Dynamic%20Etched%20Textured%20Background%20Coming%20Soon%20Banner.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0186eb77-115b-430f-8d46-c5d7db83e774" width="250" />
+</p>
+
+<p align="center">
+  🧑‍💻 Coding Mode Always On
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">💻 Developer • 📊 Data Analyst • 🚀 Builder</h3>
@@ -35,6 +42,8 @@
 
 ---
 
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ak21218&show_icons=true&theme=tokyonight)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,linux,nodejs" />
@@ -43,6 +52,3 @@
 ---
 
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ak21218&theme=tokyonight" />
-</p>
